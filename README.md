@@ -45,3 +45,4 @@ To install dependencies, run:
 ## Usage
 
 To start the development server, run:
+# exam-color-preview
